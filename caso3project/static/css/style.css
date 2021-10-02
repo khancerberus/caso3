@@ -1,0 +1,10 @@
+body {
+    background-color: #040E1C;
+    color: #FFCC66;
+    font-family: "Bahnschrift Condensed", "Segoe UI";
+}
+
+.titulos {
+    font-size: 300%;
+    text-align: center;
+}
