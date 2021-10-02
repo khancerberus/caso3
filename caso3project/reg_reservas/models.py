@@ -6,6 +6,7 @@ class Cliente(models.Model):
     nombre = models.CharField(max_length=50)
     apellidos = models.CharField(max_length=50)
 
+# Clase incompleta
 class Vehiculo(models.Model):
     patente = models.CharField(max_length=6, primary_key=True)
     marca = models.CharField(max_length=50)
